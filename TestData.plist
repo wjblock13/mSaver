@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Labs</key>
+	<array>
+		<string>ABC Lab</string>
+		<string>DEF Optical Lab</string>
+		<string>Jedi Koni Lab</string>
+		<string>Optics by GHI</string>
+		<string>Minnow Optical Lab</string>
+		<string>Optical QR Lab</string>
+		<string>STU</string>
+		<string>VW Xperience Labs</string>
+		<string>Why Z Lab</string>
+	</array>
+	<key>Manufacturers</key>
+	<array>
+		<string>ABC Lens Co</string>
+		<string>DEF Hearts</string>
+		<string>Essilor</string>
+		<string>Jedi Koni Lenses</string>
+		<string>Lenses by GHI</string>
+		<string>Minnow Optics</string>
+		<string>Plastics QR</string>
+		<string>STU</string>
+		<string>VW Xperience Lenses</string>
+		<string>Why Z Polycarb</string>
+	</array>
+	<key>Materials</key>
+	<array>
+		<string>CR39</string>
+		<string>CR39 Factory SRC</string>
+		<string>CR39 Polarized</string>
+		<string>High Index 1.60</string>
+		<string>High Index 1.66</string>
+		<string>LiteStyle Edged Polarized</string>
+		<string>LiteStyle Edged Transitions XTRActive</string>
+		<string>LiteStyle Polycarbonate</string>
+		<string>LiteStyle Polycarbonate Transitions VI</string>
+		<string>Mid Index 1.54</string>
+		<string>Mid Index 1.55</string>
+		<string>Mid Index 1.56</string>
+		<string>Mid Index Polarized</string>
+		<string>Thin &amp; Lite 1.60</string>
+		<string>Thin &amp; Lite 1.67</string>
+		<string>Thin &amp; Lite 1.68</string>
+		<string>Thin &amp; Lite 1.74</string>
+		<string>Transitions VI</string>
+		<string>Transitions VI 1.50 Sunsensors</string>
+		<string>Transitions VI 1.51 Sunsensors</string>
+		<string>Transitions VI 1.52 Sunsensors</string>
+		<string>Transitions VI 1.54 Sunsensors</string>
+		<string>Transitions VI 1.60</string>
+		<string>Transitions VI 1.67</string>
+		<string>Transitions VI TREXA</string>
+		<string>Transitions VI Trivex</string>
+		<string>TREXA</string>
+		<string>Trivex</string>
+		<string>Ultra LiteStyle</string>
+		<string>Ultra LiteStyle Polarized</string>
+		<string>Ultra LiteStyle Transitions VI</string>
+		<string>Ultra LiteStyle Transitions XTRActive</string>
+	</array>
+	<key>Lens Types</key>
+	<array>
+		<string>Single Vision</string>
+		<string>Bifocal</string>
+		<string>Trifocal</string>
+		<string>Progressive</string>
+	</array>
+	<key>Brands</key>
+	<array>
+		<string>Varilux Sport</string>
+		<string>Varilux Physio</string>
+		<string>Varilux Ellipse</string>
+		<string>Varilux Comfort</string>
+		<string>SmallFit</string>
+		<string>Ovation</string>
+		<string>Natural</string>
+		<string>Ideal</string>
+		<string>Essilor</string>
+		<string>Adaptar</string>
+		<string>Accolade Freedom</string>
+		<string>Accolade</string>
+	</array>
+	<key>Lenses</key>
+	<array>
+		<string>360</string>
+		<string>Anti-Fatigue Ashperic</string>
+		<string>Aspheric</string>
+		<string>Computer</string>
+		<string>Drivewear</string>
+		<string>EyeCode</string>
+		<string>Single Vision</string>
+		<string>Sport Solutions</string>
+		<string>Wrap</string>
+	</array>
+	<key>Coating Types</key>
+	<array>
+		<string>AR</string>
+		<string>Scratch</string>
+		<string>Other</string>
+	</array>
+	<key>Coatings</key>
+	<array>
+		<string>UTMC</string>
+		<string>TD2 with OptiFog</string>
+		<string>TD2 2-sided</string>
+		<string>Strip AR Coating</string>
+		<string>Sport Life</string>
+		<string>Specialty Mirror</string>
+		<string>Solid Silver Mirror</string>
+		<string>Solid Mirror</string>
+		<string>Solid Flash</string>
+		<string>Sola Teflon</string>
+		<string>Sharpview +</string>
+		<string>Sharpview</string>
+		<string>RF Endura EZ</string>
+		<string>RF Endura</string>
+		<string>Refraction Free NP</string>
+		<string>Komodo VES AR</string>
+		<string>Komodo Extreme</string>
+		<string>Komodo Armor SRC</string>
+		<string>Komodo AR</string>
+		<string>Kodak CleAR</string>
+		<string>Kodak Clean &amp; CleAR</string>
+		<string>Gradient Silver Mirror</string>
+		<string>Gradient Mirror</string>
+		<string>Double Gradient Silver Mirror</string>
+		<string>Double Gradient Mirror</string>
+		<string>Crizal UV with OptiFog</string>
+		<string>Crizal Sunshield UV</string>
+		<string>Crizal Sunshield Mirrors</string>
+		<string>Crizal Saphire</string>
+		<string>Crizal Easy UV</string>
+		<string>Crizal Avance UV</string>
+		<string>Crizal Alize UV</string>
+		<string>ClearSight Claris AR</string>
+		<string>ClearSight AR Multilayer</string>
+		<string>Blue Eliminator 1</string>
+		<string>Blue Blocker</string>
+		<string>Backside SRC</string>
+		<string>Backside AR</string>
+	</array>
+	<key>Colors</key>
+	<array>
+		<string>Autum Gold</string>
+		<string>Brown 1</string>
+		<string>Brown 2</string>
+		<string>Brown 3</string>
+		<string>Clear</string>
+		<string>Didymium</string>
+		<string>Green 1</string>
+		<string>Green 2</string>
+		<string>Green 3</string>
+		<string>Grey</string>
+		<string>Grey 2</string>
+		<string>Grey 3</string>
+		<string>PhotoBrown Extra</string>
+		<string>PhotoGray Extra</string>
+		<string>Pink 1</string>
+		<string>Pink 2</string>
+		<string>Tan 1</string>
+		<string>Tan 2</string>
+		<string>Tan 3</string>
+		<string>Yellow</string>
+	</array>
+	<key>Tints</key>
+	<array>
+		<string>Solid</string>
+		<string>Gradient</string>
+		<string>Multi-Gradient</string>
+		<string>Double Gradient</string>
+		<string>Crizal 1.67</string>
+		<string>Ultraviolet</string>
+		<string>Remove Tint</string>
+	</array>
+	<key>Edging</key>
+	<array>
+		<string>Edged</string>
+		<string>Uncut</string>
+	</array>
+</dict>
+</plist>
